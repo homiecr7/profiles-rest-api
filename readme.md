@@ -1,3 +1,3 @@
 # PROFILES REST API
 
-This is a practice project on Djando, Django Rest Framework.
+This is a practice project on Django, Django Rest Framework.
